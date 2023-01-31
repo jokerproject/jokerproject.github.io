@@ -379,7 +379,7 @@ nav > .logo {
     width: 100%;
     -webkit-transform: translateX(4%);
     -ms-transform: translateX(4%);
-    transform: translateX(4%);
+    transform: translateX(1.3%);
 }
 
 .nav-list li a {
@@ -926,3 +926,5 @@ footer p {
         font-size: 1rem;
     }
 }
+
+    /*Scrolling Bar */
