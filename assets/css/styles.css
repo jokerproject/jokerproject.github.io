@@ -377,8 +377,8 @@ nav > .logo {
     align-items: center;
     gap: 3rem;
     width: 100%;
-    -webkit-transform: translateX(4%);
-    -ms-transform: translateX(4%);
+    -webkit-transform: translateX(1.3%);
+    -ms-transform: translateX(1.3%);
     transform: translateX(1.3%);
 }
 
@@ -928,3 +928,7 @@ footer p {
 }
 
     /*Scrolling Bar */
+    
+    ::-webkit-scrollbar {
+    display: none;
+    }
